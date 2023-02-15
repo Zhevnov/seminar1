@@ -1,9 +1,11 @@
 ﻿/*
-int num = 12;
-double bigNum = 12.5;
-bool isEven = true;
-string word = "flower";
-char symbol = ',';
+Разновидность переменных:
+
+int num = 12;                  Целые числа
+double bigNum = 12.5;           Числа с остатком
+bool isEven = true;             boolian Значения
+string word = "flower";         Строки
+char symbol = ',';              Символы
 
 int num1 = 12;
 int num2 = 6;
@@ -16,7 +18,7 @@ Console.WriteLine($"My nomber are {num1} and {num2} and it is good!");
 //Console.Write ("Input an integer number: ");
 //int num = Convert.ToInt32(Console.ReadLine());
 
-//Console.WriteLine("Your bumber is " + num);
+//Console.WriteLine("Your тumber is " + num);
 
 //DZ seminar1
 
@@ -26,7 +28,7 @@ Console.WriteLine($"My nomber are {num1} and {num2} and it is good!");
 
 
 Console.Write("Input a first number: ");
-int num1 = Convert.ToInt32(Console.ReadLine());         Console.ReadLine() - Запрос данных у пользователя.
+int num1 = Convert.ToInt32(Console.ReadLine());         Console.Write() - Запрос данных у пользователя.
 Console.Write("Input second number: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 
